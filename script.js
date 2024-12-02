@@ -54,7 +54,6 @@ function deleteTask(task){
 
 //******************************** COMPTER LE NOMBRE DE CARDS
 
-
 function updateCount(){
     document.getElementById('inputCount').value = count;    
 }
